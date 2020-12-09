@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'tinymce',
     'notify',
     'django.contrib.admin',
-    'registration',
+    'django_registration',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
